@@ -1,0 +1,8 @@
+name: EcoSystem
+version: '${project.version}'
+main: de.patnase.ecosystem.Main
+api-version: 1.19
+author: Patnase
+commands:
+  money:
+    description: Get your current money
